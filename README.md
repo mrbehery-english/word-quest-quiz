@@ -1,6 +1,6 @@
 # Word Quest Quiz
 
-Vocabulary quiz: opposites, plurals, past tense and everyday words.
+Vocabulary quiz: opposites, plurals, past tense, synonyms. 30 questions in 3 levels, Arabic hints.
 
 A free English learning game for students and teachers. No install, no tracking, one HTML file.
 
